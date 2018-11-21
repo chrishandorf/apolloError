@@ -1,0 +1,3 @@
+query PageVisit($page: String!){
+ pageVisit(page:$page)
+}
